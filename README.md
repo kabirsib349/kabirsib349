@@ -25,4 +25,4 @@ Voici quelques projets sur lesquels j'ai travaillé :
 
 ### 📫 Comment me contacter
 
-Vous pouvez me retrouver sur mes réseaux sociaux. (N'hésitez pas à ajouter les liens ici !)
+Vous pouvez me retrouver sur mes réseaux sociaux. (www.linkedin.com/in/kabirsib)
