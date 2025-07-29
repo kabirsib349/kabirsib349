@@ -1,16 +1,28 @@
-## Hi there 👋
+### Salut, je suis Ibrahim ! 👋
 
-<!--
-**kabirsib349/kabirsib349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub. Je suis un développeur passionné par la création d'applications et de jeux.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mes projets
+
+Voici quelques projets sur lesquels j'ai travaillé :
+
+| Projet | Description | Technologie | Lien |
+|---|---|---|---|
+| 🎲 **Jeu Flappy Bird** | Un clone du célèbre jeu Flappy Bird. | `Java`, `Swing` | [Voir le code](https://github.com/kabirsib349/jeu-flappy-bird) |
+| 🍄 **Jeu Super Mario** | Une recréation d'un niveau de Super Mario. | `Java`, `Swing` | [Voir le code](https://github.com/kabirsib349/jeu-mario) |
+| 📦 **Projet InfraLog** | Dépôt pour un projet d'infrastructure logicielle. | `Java` | [Voir le code](https://github.com/kabirsib349/projet_infraLog) |
+
+---
+
+### 🛠️ Langages et Outils
+
+- **Langages :** Java
+- **Outils :** Git, GitHub, IntelliJ IDEA
+
+---
+
+### 📫 Comment me contacter
+
+Vous pouvez me retrouver sur mes réseaux sociaux. (N'hésitez pas à ajouter les liens ici !)
