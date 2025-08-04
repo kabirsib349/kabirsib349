@@ -1,6 +1,6 @@
 ### Salut, je suis Kabir ! 👋
 
-Bienvenue sur mon profil GitHub. Je suis un jeune développeur aimant par la création d'applications. Je m'amuse à recréer des jeux(rétro).
+Bienvenue sur mon profil GitHub. Je suis un jeune développeur aimant la création d'applications. Je m'amuse à recréer des jeux(rétro).
 
 ---
 
