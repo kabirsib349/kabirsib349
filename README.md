@@ -12,7 +12,7 @@ Voici quelques projets sur lesquels j'ai travaillé :
 |---|---|---|---|
 | 🐤💨⬛ **Jeu Flappy Bird** | Un clone du célèbre jeu Flappy Bird. | `Java`, `Swing` | [Voir le code](https://github.com/kabirsib349/jeu-flappy-bird) |
 | 🍄 **Jeu Super Mario** | Une recréation d'un niveau de Super Mario. | `Java`, `Swing` | [Voir le code](https://github.com/kabirsib349/jeu-mario) |
-| 📦 **Projet InfraLog** | Dépôt pour un projet d'infrastructure logicielle(projet non terminé). | `Java` | [Voir le code](https://github.com/kabirsib349/projet_infraLog) |
+
 
 ---
 
