@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Salut,+moi+c'est+Ibrahim;Developpeur+Full-Stack;Bienvenue+sur+mon+profil" alt="Typing SVG" />
-</h1>
+<h1 align="center">Salut, moi c'est Ibrahim KABIR SALEH</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Developpeur+Full-Stack;Architecte+SaaS;Createur+d'applications" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <strong>Crafting digital experiences & Turning coffee into code.</strong><br>
@@ -25,27 +27,28 @@
 
 ---
 
-<h2 align="center">Projets Phares</h2>
+<h2 align="center">✦ Mes Projets</h2>
 
-<p align="center">
-  <a href="https://github.com/kabirsib349/kmusic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirsib349&repo=kmusic&theme=radical&hide_border=true" alt="KMusic" />
-  </a>
-  <a href="https://github.com/kabirsib349/appli-note">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirsib349&repo=appli-note&theme=radical&hide_border=true" alt="Appli Note" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/kabirsib349/angers-connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirsib349&repo=angers-connect&theme=radical&hide_border=true" alt="Angers Connect" />
-  </a>
-  <a href="https://github.com/kabirsib349/pfe-plateforme-sante-chu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirsib349&repo=pfe-plateforme-sante-chu&theme=radical&hide_border=true" alt="Plateforme Sante" />
-  </a>
-</p>
+<br>
+
+### 🎧 [KMusic](https://github.com/kabirsib349/kmusic)
+> **Spotify-like personnel auto-heberge** avec lecteur temps reel fluide et telechargement YouTube HD integre.
+> *Python, Flask, SocketIO, Vanilla JS*
+
+### 📝 [SaaS Notes Premium](https://github.com/kabirsib349/appli-note)
+> **Plateforme SaaS** de gestion de notes avec systeme d'abonnement complet (Stripe) et authentification OAuth.
+> *Next.js, TypeScript, Prisma, Stripe*
+
+### 📱 [Angers Connect](https://github.com/kabirsib349/angers-connect)
+> **Application mobile** iOS/Android connectee a l'Open Data de la ville d'Angers avec carte interactive et mode hors-ligne.
+> *Flutter, Dart, API REST, NoSQL Hive*
+
+### 🏥 [Medical Data CHU](https://github.com/kabirsib349/pfe-plateforme-sante-chu)
+> **Plateforme hautement securisee** de collecte de donnees medicales pour un centre hospitalier universitaire (Projet de fin d'etudes).
+> *Java, Springboot, Next.js, RGPD*
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirsib349&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <i>Plus de code dans mes repertoires...</i>
 </p>
