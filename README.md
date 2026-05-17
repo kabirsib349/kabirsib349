@@ -1,15 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Salut,+moi+c'est+Ibrahim+KABIR+SALEH;Developpeur+Full-Stack;Createur+d'applications+Web+%26+Mobiles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Salut,+moi+c'est+Ibrahim;Developpeur+Full-Stack;Bienvenue+sur+mon+profil" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <strong>Je build des trucs sympas<strong><br>
-  <i>Du front qui claque au back qui encaisse, j'aime quand c'est clean et que ca tourne vite.</i>
+  <strong>Crafting digital experiences & Turning coffee into code.</strong><br>
+  <i>J'aime quand le design est propre, que le code est lisible, et que l'experience utilisateur claque.</i>
 </p>
 
 ---
-
-## Stack Technique
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -27,35 +25,27 @@
 
 ---
 
-## Code & Projets
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kabirsib349/kmusic">KMusic</a></h3>
-      <p>Un clone personnel de Spotify (SaaS) avec lecteur en temps reel et telechargement YouTube vers MP3 HD integre.</p>
-      <p><i>Python, Flask, SocketIO, Web Audio API</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kabirsib349/appli-note">SaaS Notes Premium</a></h3>
-      <p>Plateforme web de gestion de notes avec systeme d'abonnement complet et authentification OAuth.</p>
-      <p><i>Next.js, TypeScript, Prisma, Stripe</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kabirsib349/angers-connect">Angers Connect</a></h3>
-      <p>Application mobile iOS/Android connectee a l'Open Data d'Angers avec carte interactive et mode hors-ligne.</p>
-      <p><i>Flutter, Dart, API REST, NoSQL</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kabirsib349/pfe-plateforme-sante-chu">Medical Data CHU</a></h3>
-      <p>Plateforme hautement securisee de collecte de donnees medicales pour un centre hospitalier universitaire.</p>
-      <p><i>Java, Springboot, Next.js, RGPD</i></p>
-    </td>
-  </tr>
-</table>
+<h2 align="center">Projets Phares</h2>
 
 <p align="center">
-  <i>Plus de projets dans mes repertoires publics...</i>
+  <a href="https://github.com/kabirsib349/kmusic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirsib349&repo=kmusic&theme=radical&hide_border=true" alt="KMusic" />
+  </a>
+  <a href="https://github.com/kabirsib349/appli-note">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirsib349&repo=appli-note&theme=radical&hide_border=true" alt="Appli Note" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/kabirsib349/angers-connect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirsib349&repo=angers-connect&theme=radical&hide_border=true" alt="Angers Connect" />
+  </a>
+  <a href="https://github.com/kabirsib349/pfe-plateforme-sante-chu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabirsib349&repo=pfe-plateforme-sante-chu&theme=radical&hide_border=true" alt="Plateforme Sante" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirsib349&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
