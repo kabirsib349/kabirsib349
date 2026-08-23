@@ -31,8 +31,8 @@
 
 <br>
 
-**[Angers Connect](https://github.com/kabirsib349/angers-connect)**
-> Application mobile connectee a l'Open Data de la ville d'Angers. Mode hors-ligne et carte interactive integres.
+**[Angers Connect](https://github.com/kabirsib349/angers-connect-main)**
+> Application connectee a l'Open Data de la ville d'Angers. Mode hors-ligne et carte interactive integres.
 > *Flutter, Dart, API REST, NoSQL Hive*
 
 <br>
