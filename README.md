@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <strong>Du front qui claque au back qui encaisse.</strong><br>
   <i>J'aime quand le code est clean, que l'interface est fluide, et que ca tourne tres vite.</i>
 </p>
 
